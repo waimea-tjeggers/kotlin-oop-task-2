@@ -2,6 +2,12 @@
 
 Those gnomes have started a fight club!
 
+```
+   /\        /\
+  ('')  VS  (oo)
+__{__}______{__}__
+```
+
 Notes:
 - Gnomes have a strength value from 1-10
 - Gnomes have a health level from 0-100
