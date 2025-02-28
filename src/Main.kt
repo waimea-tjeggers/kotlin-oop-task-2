@@ -190,6 +190,7 @@ class Gnome(val name: String, var strength: Int) {
 
         opponent.health = opponent.health - damageToOpponent
         health = health - damageToSelf
+
         if (health <0) health = 0
         if (opponent.health < 0 )opponent.health = 0
 
